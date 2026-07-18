@@ -1,0 +1,8 @@
+#print(129&96)
+#print(5&3)
+#print(12|10)
+#int(9|2)
+#rint(5&3)
+#print(12^20^30)
+#print(10<<2)
+print(12<<1)

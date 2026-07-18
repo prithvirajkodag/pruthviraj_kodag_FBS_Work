@@ -1,0 +1,9 @@
+# write a program convert the time entred in hh, min and sec into second.
+
+hours = int(input('enter hours:'))
+minutes = int(input('enter minutes:'))
+second = int(input('enter seconds:'))
+
+total_seconds=(hours*3600)+(minutes*60)+second
+
+print (f'total seconds is {total_seconds}.')
